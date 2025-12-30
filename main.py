@@ -7,7 +7,7 @@ from moosez import moose
 import torch
 import numpy as np
 # ------------------------------------------------------------------------------------
-# CONFIG
+# CONFIGURATIONS
 # ------------------------------------------------------------------------------------
 
 BASE_DIR = r"" # add your dir 
@@ -682,3 +682,6 @@ if __name__ == "__main__":
 
     # 4) Candidate paths + collision checking
     run_candidate_generation(tumor_point_mm)
+
+#Any clinical interpretation of results is **explicitly disclaimed**.
+
