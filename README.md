@@ -72,3 +72,7 @@ This improves patient safety and expands anatomical awareness of the planner, ma
 
 <img width="593" height="462" alt="image" src="https://github.com/user-attachments/assets/d8093b2e-a7e9-427c-85ca-a0dc68fb48e3" />
 
+
+Research use only. Not for clinical deployment.
+
+
