@@ -61,3 +61,14 @@ This improves patient safety and expands anatomical awareness of the planner, ma
 6.	SAFETY MARGIN 
 •	A safety margin is a buffer distance added around sensitive anatomy to account for Breathing motion, segmentation inaccuracies, needle deflection, and Registration errors. This helps to reduce the uncertainty.
 
+<img width="735" height="407" alt="image" src="https://github.com/user-attachments/assets/d34b5a18-9981-4f28-909d-44e717a5629b" />
+
+
+<img width="748" height="429" alt="image" src="https://github.com/user-attachments/assets/14b4bb72-1768-48a4-adff-e0b6da2241f1" />
+
+<img width="559" height="389" alt="image" src="https://github.com/user-attachments/assets/3aa15b48-4c3c-4505-9bb7-6453ef86a8c9" />
+
+<img width="592" height="453" alt="image" src="https://github.com/user-attachments/assets/2b751628-7fbf-451f-b61e-fbe6f154b03a" />
+
+<img width="593" height="462" alt="image" src="https://github.com/user-attachments/assets/d8093b2e-a7e9-427c-85ca-a0dc68fb48e3" />
+
